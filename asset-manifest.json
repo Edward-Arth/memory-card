@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Edward-Arth/memory-card/static/css/main.9177e30c.css",
-    "main.js": "/Edward-Arth/memory-card/static/js/main.4ae0c06c.js",
-    "static/media/magdalene.png": "/Edward-Arth/memory-card/static/media/magdalene.ca0d1174b7e04b316f48.png",
-    "static/media/keeper.jpg": "/Edward-Arth/memory-card/static/media/keeper.48871461a06ca7000317.jpg",
-    "static/media/azazel.jpg": "/Edward-Arth/memory-card/static/media/azazel.3098891e6a13dc2e520a.jpg",
-    "static/media/lilith.webp": "/Edward-Arth/memory-card/static/media/lilith.544c327c2c290fed3151.webp",
-    "static/media/laz.webp": "/Edward-Arth/memory-card/static/media/laz.08e641c7b68912630790.webp",
-    "static/media/J&E.webp": "/Edward-Arth/memory-card/static/media/J&E.dc35a5125fdff1783729.webp",
-    "static/media/samson.webp": "/Edward-Arth/memory-card/static/media/samson.5a3dca44aad27824017a.webp",
-    "static/media/eve.webp": "/Edward-Arth/memory-card/static/media/eve.76a77873b4f8667d6e4b.webp",
-    "static/media/cain.webp": "/Edward-Arth/memory-card/static/media/cain.31fec75f0267d5493fbf.webp",
-    "static/media/apollyon.webp": "/Edward-Arth/memory-card/static/media/apollyon.c32ee6340e6bbd94c2b3.webp",
-    "index.html": "/Edward-Arth/memory-card/index.html",
-    "main.9177e30c.css.map": "/Edward-Arth/memory-card/static/css/main.9177e30c.css.map",
-    "main.4ae0c06c.js.map": "/Edward-Arth/memory-card/static/js/main.4ae0c06c.js.map"
+    "main.css": "/memory-card/static/css/main.9177e30c.css",
+    "main.js": "/memory-card/static/js/main.d8dbc5d4.js",
+    "static/media/magdalene.png": "/memory-card/static/media/magdalene.ca0d1174b7e04b316f48.png",
+    "static/media/keeper.jpg": "/memory-card/static/media/keeper.48871461a06ca7000317.jpg",
+    "static/media/azazel.jpg": "/memory-card/static/media/azazel.3098891e6a13dc2e520a.jpg",
+    "static/media/lilith.webp": "/memory-card/static/media/lilith.544c327c2c290fed3151.webp",
+    "static/media/laz.webp": "/memory-card/static/media/laz.08e641c7b68912630790.webp",
+    "static/media/J&E.webp": "/memory-card/static/media/J&E.dc35a5125fdff1783729.webp",
+    "static/media/samson.webp": "/memory-card/static/media/samson.5a3dca44aad27824017a.webp",
+    "static/media/eve.webp": "/memory-card/static/media/eve.76a77873b4f8667d6e4b.webp",
+    "static/media/cain.webp": "/memory-card/static/media/cain.31fec75f0267d5493fbf.webp",
+    "static/media/apollyon.webp": "/memory-card/static/media/apollyon.c32ee6340e6bbd94c2b3.webp",
+    "index.html": "/memory-card/index.html",
+    "main.9177e30c.css.map": "/memory-card/static/css/main.9177e30c.css.map",
+    "main.d8dbc5d4.js.map": "/memory-card/static/js/main.d8dbc5d4.js.map"
   },
   "entrypoints": [
     "static/css/main.9177e30c.css",
-    "static/js/main.4ae0c06c.js"
+    "static/js/main.d8dbc5d4.js"
   ]
 }
