@@ -1,0 +1,2 @@
+body{margin:0;padding:0}.cardPics{height:200px;width:200px}.cardHolder{margin:5px;outline:solid;outline-width:3px}#deckHolder{display:flex;flex-wrap:wrap;width:840px}#deckDisplayCon,#headerCon{display:flex;justify-content:center}#headerCon{flex-wrap:wrap;margin-top:10px}#titleDiv{font-size:50px;margin-bottom:10px}#instructions,#titleDiv{display:flex;justify-content:center;width:100%}#instructions{font-size:25px;margin-bottom:15px}#scoreInfo{align-items:center;display:flex;flex-direction:column;font-size:25px;margin-top:10px}
+/*# sourceMappingURL=main.9177e30c.css.map*/
