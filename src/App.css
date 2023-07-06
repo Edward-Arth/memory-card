@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.cardPics {
+    width: 200px;
+    height: 200px;
+}
+
+.cardHolder {
+    outline: solid;
+    outline-width: 3px;
+    margin:5px
+}
+
+#deckHolder {
+    display:flex;
+    flex-wrap: wrap;
+    width: 840px;
+}
+
+#deckDisplayCon {
+    display:flex;
+    justify-content: center;
+}
+
+#headerCon {
+    display:flex;
+    justify-content: center;
+    margin-top: 10px;
+    flex-wrap: wrap;
+}
+
+#titleDiv {
+    width:100%;
+    display:flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    font-size: 50px;
+}
+
+#instructions {
+    width:100%;
+    display:flex;
+    justify-content: center;
+    margin-bottom: 15px;
+    font-size: 25px;
+}
+
+#scoreInfo {
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10px;
+    font-size:25px
+}
